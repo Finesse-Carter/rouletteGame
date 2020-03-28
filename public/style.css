@@ -1,0 +1,26 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+a{
+  background-color: rgba(215, 34, 2, 0.568);
+  width: 8%;
+}
+body{
+  background-color:gray;
+}
+button{
+  background-color:rgba(215, 34, 2, 0.568);
+}
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 30px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: inherit;
+  background-color: rgba(231, 93, 93, 0.568);
+}

@@ -1,0 +1,71 @@
+
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+    
+}
+body {
+    background-image: url(img/giphy2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: serif;
+}
+header{
+    background-color:rgba(128, 128, 128, 0.589);
+    width: 100%;
+    text-align: center;
+    border: 2px solid black;
+}
+h1 {
+    font-size: 7rem;
+    font-weight: bolder;
+    font-family: serif;
+}
+h2 {
+    font-size: 6rem;
+    color: #565E45;
+    font-family: serif;
+    font-weight: bolder;
+    text-align: center;
+}
+button{
+    background-color:rgba(215, 34, 2, 0.568);
+}
+p{
+    font-size: 2.5rem;
+}
+#wallet {
+    color: rgb(57, 63, 44);
+    font-size: 3rem;
+    font-weight: bolder;
+}
+label{
+    color: #B6B08D;
+    font-size: 3rem;
+}
+span{
+    font-size: 2.5rem;
+}
+#status{
+    color:#D72102;
+    font-weight: bolder;
+}
+#playerBet{
+    width: 20%;
+}
+#userNum{
+
+}
+form {
+    margin-left: 36rem;
+    width: 54%;
+    margin-top: 7rem;
+    background-color: rgba(255, 255, 255, 0.349);
+    border: 1px solid black;
+}
+a{
+    background-color: rgba(215, 34, 2, 0.568);
+    width: 8%;
+}
