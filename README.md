@@ -10,6 +10,9 @@ To login as owner.
 email: owner@roulette
 password: admin
 
-## 
+ ## Tech Used:
+- HTML5
+- CSS3
+- JavaScript
 
 
